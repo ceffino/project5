@@ -1,0 +1,8 @@
+.row .card:hover {
+  box-shadow: 2px 2px 2px gray;
+  transform: scale(1.02);
+}
+
+#product{
+	text-align: center;
+}
